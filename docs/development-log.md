@@ -36,3 +36,7 @@ ci: add build and test workflow
 
 feat: add validation rules for basic authentication
 
+## 2025-08-27 - Stage 10
+
+feat: add reporting view for error handling
+
